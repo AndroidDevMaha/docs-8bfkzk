@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://AndroidDevMaha.github.io/docs-8bfkzk/sitemap.xml
